@@ -1,9 +1,5 @@
 package main
 
-import {
-    
-}
-
 type libusb_version struct {
     major const uint16
     minor const uint16
